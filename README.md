@@ -2,11 +2,11 @@
 
 遺伝的アルゴリズムでマリオ成長させて，全ステージクリアを目指します．
 
-マリオの動作環境は[gym-super-mario-bros](https://github.com/Kautenja/gym-super-mario-bros)を使わせていただきました！
+マリオの動作環境は[gym-super-mario-bros](https://github.com/Kautenja/gym-super-mario-bros)を使わせていただきました．
 
 ## パッケージのインストール
 
-動作に必要なパッケージをインストールしてください！！
+動作に必要なパッケージをインストールしてください．
 
 ```bash
 pip install -r requirements.txt
